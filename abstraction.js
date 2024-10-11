@@ -17,7 +17,7 @@ class Employee {
     getSalary() {
       let bonus = 1000;
       return this.#baseSalary + bonus;
-      
+
     }
   }
   
